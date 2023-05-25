@@ -1,5 +1,5 @@
 # AngularJsCrudDemo
-Quant Engine API : Quant Engine API is an API for fetching quant style datasets from FactSet content databases. A quant style dataset is created by generating a set of dates, a universe on each date, and then fetching content via screening expressions, fql expressions, or universal screen parameters for each universe on each date.
+Quant Engine API : The Port API allows you to upload and edit holdings data to FactSet, this enables you to access the power of our world-class Portfolio Analytics suite and instantly start evaluating your portfolio’s performance via the Portfolio Analytics API.
 
 Portfolio API: The Port API allows you to upload and edit holdings data to FactSet, this enables you to access the power of our world-class Portfolio Analytics suite and instantly start evaluating your portfolio’s performance via the Portfolio Analytics API.
 
